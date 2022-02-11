@@ -6,14 +6,14 @@ To design a wire frame for a website.
 ## DESIGN STEPS:
 
 ### Step 1:
-Write your design steps here 
+Used Figma for the wire frame
 
 ### Step 2:
-Write your design steps here
+Changed the allignment and design of the given existing website.
 
 ## OUTPUT:
-include your output screenshots 
-
-
+![](home.jpg)
+![](menu.jpg)
+![](abtus.jpg)
 ## Result:
 Thus a wire frame is designed for a given website.
